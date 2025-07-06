@@ -13,7 +13,7 @@ It includes atmosphere, blueprint‑driven logic, and jump‑scare mechanics.
 
 # Gameplay
 
-Video Gameplay is as follows:
+Video Gameplay is as follows: https://drive.google.com/file/d/1z5W8lNO-5srS_RPZz7pERrFpEFiDHs3k/view?usp=sharing
 
 # Features :
 
