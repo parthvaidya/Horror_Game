@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Materials/parasiteZombie_body_diffuse.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Materials/parasiteZombie_diffuse.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Materials/parasitezombie_Material.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Materials/parasitezombie_Material1.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Materials/parasiteZombie_normal.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Materials/parasiteZombie_specular.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Animations/Running_Crawl.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Animations/Zombie_Attack.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Animations/Zombie_Attack__1_.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Animations/Zombie_Crawl.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Animations/Zombie_Idle.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Animations/BS_IdleRun.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Animations/IdleCrawl.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Animations/ABP_Creature.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/BP_Creature.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Lvl_Horror.umap",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Blueprints/BP_FP_Horror.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/SK_Creature.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/SK_Creature_PhysicsAsset.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/SK_Creature_Skeleton.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/Creatures/Animations/Zombie_Attack_Montage.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/CameraShake.uasset",
+				"D:/parth/Unreal Games/Horror_Game/Content/Variant_Horror/UI/UI_Horror.uasset"
+			]
+		}
+	]
+}
